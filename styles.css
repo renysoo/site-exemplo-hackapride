@@ -1,0 +1,47 @@
+body{
+    background-color: #f0f0f0;
+    margin: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-itens{
+    margin-left: 16px;
+    margin-right: 24px;
+}
+
+.about-text{
+    width: 35%;
+    margin-left: 14%;
+    margin-top: 12%;
+}
+
+.social-media-icons{
+    margin-left: 14%;
+}
+
+.title-text{
+    font-family: 'Lato', sans-serif;
+    color: tomato;
+    font-weight: 900;
+}
+
+.second-text{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+
+.fab{
+    font-size: 24px;
+    width: 50px;
+    text-decoration: none;
+}
+
+.fab:hover{
+    opacity: 0.5;
+    color: tomato;
+}
